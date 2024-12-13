@@ -98,6 +98,7 @@ void loop() {
 }
 
 ```
+Assim, os estados são quando estiver escuro o protótipo deve irá piscar o led amarelo a cada segundo e quando estiver claro os leds irão ativar o modo convencional e fazer a temporização alternando entre verde (3 segundos), amarelo (2 segundos) e vermelho (5 segundos), por fim quando estiver claro e o semáforo estiver no estado fechado  e o botão for pressionado, o semáforo deve abrir 1 segundo após o pressionamento do botão.
 
 Segue a imagem do esquemática do circuito:
 
